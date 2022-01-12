@@ -1,0 +1,34 @@
+.navbar {
+    background-color: rgb(212, 212, 212);
+
+    height: 55px;
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.li_of_nav {
+    list-style: none;
+
+}
+
+#dailyText {
+    font-size: 20px;
+    margin-left: -20px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding-top: 0px;
+
+}
+
+#imgControle {
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+    padding-top: 0px;
+}
+
+.navcolor {
+    background-color: rgb(212, 212, 212);
+
+}
